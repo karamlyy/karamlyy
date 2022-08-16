@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Kotlin
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Linkedin Karam Afandi https://www.linkedin.com/in/karamlyy/
-- 😄 Pronouns: mans
-- ⚡ Fun fact: Barsa is gay
+- 😄 Pronouns: me
+- ⚡ Fun fact: 1 > 0
 
