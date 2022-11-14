@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-- 🔭 I’m currently working on firadigital agency's website
+- 🔭 I’m currently working on nothing 
 - 🌱 I’m currently learning Java, Kotlin and XML for Android Development 
 - 👯 I’m looking to collaborate on smth
 - 🤔 I’m looking for help with Kotlin
