@@ -1,4 +1,4 @@
-### Hi, there 👋
+### Hi, fellas 👋
 
 - 🔭 I’m currently working on nothing 
 - 🌱 I’m currently learning Java, Kotlin and XML for Android Development 
