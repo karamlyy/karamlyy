@@ -26,6 +26,9 @@ width="47%"/>
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
 
+[<img height="22" width="22" align="left" src="https://www.svgrepo.com/show/26491/internet.svg" />][Website]
+
+
 [Linkedin]: https://www.linkedin.com/in/karamlyy/
 [Instagram]: https://www.instagram.com/karamlyy
 [Facebook]: https://www.facebook.com/karamlyy
