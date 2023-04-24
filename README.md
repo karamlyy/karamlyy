@@ -32,7 +32,7 @@ width="47%"/>
 [Linkedin]: https://www.linkedin.com/in/karamlyy/
 [Instagram]: https://www.instagram.com/karamlyy
 [Facebook]: https://www.facebook.com/karamlyy
-[Website]: https://www.karamlyy.com/
+[Website]: https://karamlyy.com/
 <br />
 
 ## Tech I Use:
