@@ -45,7 +45,8 @@
 
 <p align="left">
   
-  <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png)" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" height="35" alt="Flutter Logo"/>
+
 </p>
 
 ---
