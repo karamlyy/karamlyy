@@ -44,8 +44,7 @@
 ## 🛠 Tech I Use
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB](https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg)" height="35"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35](https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" height="35"/>
