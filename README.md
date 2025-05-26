@@ -45,8 +45,9 @@
 
 <p align="left">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" height="35" alt="Flutter Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Android_logo_2023.svg/1600px-Android_logo_2023.svg.png" height="35" alt="Android Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" height="45" alt="Flutter Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Android_logo_2023.svg/1600px-Android_logo_2023.svg.png" height="45" alt="Android Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/New_Firebase_logo.svg/1200px-New_Firebase_logo.svg.png" height="45" alt="Firebase Logo"/>
 </p>
 
 ---
